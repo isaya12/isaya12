@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isaya12
 - 👀 I’m interested in webapplication
-- 🌱 I’m currently learning laravel,js,bootstrap
+- 🌱 I’m currently learning laravel,js,flutter
 - 💞️ I’m looking to collaborate on web,app development
 - 📫 How to reach me lushugembeisayer7@gmail.com , 0615498026
 
